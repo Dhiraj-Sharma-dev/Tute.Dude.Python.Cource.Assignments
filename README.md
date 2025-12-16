@@ -1,9 +1,9 @@
 # Usage Steps
 Follow these steps to run the programs:
 
-Clone the repository using git clone <your-repo-url>.
+Clone the repository using git clone https://github.com/Dhiraj-Sharma-dev/Tute.Dude.Python.Cource.Assignments.git.
 
-Open a terminal or command prompt and navigate to the project folder with cd <folder-name>.
+Open a terminal or command prompt and navigate to the project folder.
 
 Ensure Python 3 is installed (no extra libraries needed).​
 
