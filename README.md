@@ -10,7 +10,7 @@ Ensure Python 3 is installed (no extra libraries needed).​
 # Running Task 1
 Execute the math operations script step-by-step:
 
-Run python Task1.py.
+Run python Task 1.py.
 
 Enter the first number when prompted (e.g., 5).
 
